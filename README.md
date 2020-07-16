@@ -21,4 +21,4 @@ Harvard Dataverse: This database contains detailed candidate-level data for elec
 
 GitHub: The portal contains a collection of data on General Elections of the recent past. The link contains information on Lok Sabha and Rajya Sabha members, booth-wise information for Mumbai 2014 assembly polls etc.
 
-Reference: <href link="https://courses.greyatom.com/course/election-data-analysis/" targer="_blank">Greyatom</href>
+Reference & Many Thanks To: <a href="https://courses.greyatom.com/course/election-data-analysis/" targer="_blank">Greyatom</a>
